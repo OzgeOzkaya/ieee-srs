@@ -30,11 +30,7 @@ The introduction of the SRS should provide an overview of the entier SRS.
 - Describe the application of the software being specified including relevant benefits, objectives, and goals;
 - Be consistent in similar statements in higher-level specifications (e.g., the system requirements specification), if they exist.
 
-## 1.3 Definitions, acronyms and abbreviations
-
-This subsection should provide the definitions of all terms, acronyms, and abbreviations required to properly interpret the SRS. This information may be provided by reference to one or more appendixes in the SRS or by reference to other documents.
-
-## 1.4 References
+## 1.3 References
 
 This subsection should
 
@@ -43,14 +39,6 @@ This subsection should
 - Specify the sources from which the references can be obtained.
 
 This information may be provided by reference to an appendix or to another document.
-
-
-## 1.5 OVerview
-
-This subsection should
-
-- Describe what the rest of the SRS contains;
-- Explain how the SRS is organized.
 
 # 2 Overall Description
 
